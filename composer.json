@@ -1,0 +1,24 @@
+{
+    "name": "kawschool/sistema",
+    "description": "Sistema",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Allison Reynoso Serra",
+            "email": "inguer2003@gmail.com"
+        },
+        {
+            "name": "Yoselin Arocutipa Lovon",
+            "email": "yosdal23@gmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Kawschool\\":"src/"
+        }
+    }
+}
